@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../Sidebar/Sidebar"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Youtube"
+  }
+}
